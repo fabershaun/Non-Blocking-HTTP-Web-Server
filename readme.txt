@@ -1,17 +1,11 @@
+Run Instructions:
 
-מטלה 3 בתקשורת מחשבים
-
-שם מגיש: שון פבר
-תעודת זהות: 316296839
-
-דגשים להרצה:
-1. על מנת להריץ את התוכנית בצורה תקינה יש לשמור את הקבצים המצורפים בקובץ בשמות:
+To run the program correctly, save the following files with these exact names in the directory C:\temp:
 index_en.html
 index_he.html
 index_fr.html
-בתיקיית c:\temp.
 
-2. הכתובות הרלוונטיות לביצוע הן:
+After starting the server, open one of the following URLs in your browser (or use Postman or Telnet) to test:
 http://localhost:8080/index.html?lang=en
 http://localhost:8080/index.html?lang=fr
 http://localhost:8080/index.html?lang=he
