@@ -1,0 +1,31 @@
+# Build folders
+x64/
+Debug/
+Release/
+.vs/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.obj
+*.pdb
+*.idb
+*.exe
+*.ilk
+*.log
+*.tlog
+
+# Other temporary files
+*.pch
+*.ipch
+*.db
+*.opendb
+*.cache
+*.tmp
+*.bak
+*.VC.db
+*.VC.opendb
